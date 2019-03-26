@@ -452,9 +452,9 @@ inputfile = fopen(input_filename,"r");
 
 int help(void){
     printf("========================================\n");
-    printf("File: P4.exe\n");
+    printf("File: RiemannSum.exe\n");
     printf("Copy: Copyright (c) 2018 Shawn Smith \n");
-    printf("Vers: 1.0.0 09/19/2018 SOS - First Iteration of a Functioning Calculator\n");
+    printf("Vers: 1.0.0 10/18/2018 SOS - First Iteration of a Functioning Calculator\n");
     printf("Desc: Integration Calculator\n");
     printf("========================================\n");
     printf("Usage:\n");
