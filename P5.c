@@ -1,17 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 /* 
- * File: <ProgramName>.c
+ * File: RiemannSumCalc.c
  * Copy: Copyright (c) 2018 Shawn Smith
  * BlazerID: ssmith84
- * Vers: 2.1.0 <Current Date> SOS - <Description of Minor Modifications/Bugs>
- * Vers: 2.0.0 <Current Date> SOS - <Description of Major Modifications/Features>
- * Vers: 1.0.0 <Current Date> SOS - Original Coding
- * Desc: <A brief explanation of what your program does.>
+ * Vers: 1.0.0 10/18/2018 SOS - Original Coding
+ * Desc: An interactive an batch file calculator that works with integraton methods
  */
 
 #include <stdio.h>
